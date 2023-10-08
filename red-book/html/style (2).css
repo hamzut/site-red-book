@@ -1,0 +1,159 @@
+.body {
+    height: 100%;
+    width: 100%;
+    background-color: #202020;
+
+}
+.div {
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+    padding: 10px 100px 10px 120px;
+    box-sizing: border-box;
+    max-width: 100%;
+    margin: 0 auto;
+    position: relative;
+    top: 0px;
+
+}
+.menu {
+    display: flex;
+    list-style: none;
+    margin-left: 1000px;
+    
+}
+.menu li{
+    margin-left: 94px;
+
+}
+.menu li a{
+    color: #ffffff; ; text-decoration: none;
+}
+.menu li a:hover{
+    color: #9c9c9c;
+}
+.logo {
+    max-height: 100px;
+}
+.txt2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #FFF;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    padding: auto;
+    font-size: 100px;
+}
+.img {
+    width: 30rem;
+    padding: 30px;
+    position: absolute;
+}
+.cho-to {
+    display: flex;
+    padding: 20px 1px 0px 600px;
+    color: #FFF;
+    align-items: center;
+    position: absolute;
+    font-size: 50px;
+}
+.choto {
+    display: flex;
+    padding: 150px 1px 0px 600px;
+    color: #FFF;
+    align-items: center;
+    position: absolute;
+    font-size: 30px;
+}
+.img2 {
+    width: 30rem;
+    padding: 400px 0 0 30px;
+    position: absolute;
+}
+.cho-to2 {
+    display: flex;
+    padding: 400px 1px 0px 600px;
+    color: #FFF;
+    align-items: center;
+    position: absolute;
+    font-size: 50px;
+}
+.choto2 {
+    display: flex;
+    padding: 500px 1px 0px 600px;
+    color: #FFF;
+    align-items: center;
+    position: absolute;
+    font-size: 30px;
+}
+.img3 {
+    width: 30rem;
+    padding: 770px 0 0 30px;
+    position: absolute;
+}
+.cho-to3 {
+    display: flex;
+    padding: 770px 1px 0px 600px;
+    color: #FFF;
+    align-items: center;
+    position: absolute;
+    font-size: 50px;
+}
+.choto3 {
+    display: flex;
+    padding: 870px 1px 0px 600px;
+    color: #FFF;
+    align-items: center;
+    position: absolute;
+    font-size: 30px;
+}
+.img4 {
+    width: 30rem;
+    padding: 1150px 0 0 30px;
+    position: absolute;
+}
+.cho-to4 {
+    display: flex;
+    padding: 1150px 0 0 600px;
+    color: #FFF;
+    align-items: center;
+    position: absolute;
+    font-size: 50px;
+}
+.choto4 {
+    display: flex;
+    padding: 1250px 0 0 600px;
+    color: #FFF;
+    align-items: center;
+    position: absolute;
+    font-size: 30px;
+}
+.wrap {
+    max-width: 1080px;
+    min-width: 320px;
+    margin: 0 auto;
+    padding: 0 15px;
+    box-sizing: border-box; 
+
+}
+.footer_wrap {
+    padding: 1500px 20px 20px 0px;
+}
+.footer {
+    display: flex; justify-content: space-between; align-items: center;
+    color: #000000; font-size: 0.75rem; font-weight: 700;
+}
+.txt3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #FFF;
+    text-decoration: none;
+}
+.foot {
+    width: 10000rem;
+    height: 5rem;
+    background-color: rgb(53, 53, 53);
+}
+.silke {
+    text-decoration:none;
+    color: #838383;
+}
